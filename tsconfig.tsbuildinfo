@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/campusmap.tsx","./src/data/buildings.ts","./src/data/sampleevents.ts","./src/lib/matchlocation.ts","./src/lib/schedule.ts","./src/lib/suitable.ts"],"version":"5.9.3"}
